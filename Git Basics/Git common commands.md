@@ -1,0 +1,13 @@
+- `git init` – initialises a new Git repo with `.git` directory
+- `git add` – stage changes
+- `git commit` – snapshot changes
+- `git status` – show staged/unstaged work
+- `git log` – show commit history
+- `git diff` – show what changed
+
+- `git config` – set user/email
+- `git help <command>` – built-in docs
+- `git clone` – copy a remote repo
+- `git rm` – remove files
+- `git mv` – rename files
+- `git restore` – undo file changes (modern)
